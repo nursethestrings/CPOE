@@ -1,5 +1,4 @@
 # CPOE
-EMR, CPOE, and Clinical Ramifications in US Emergency Departments
 Running head: IMPLEMENTATION OF COMPUTER PHYSICIAN ORDER ENTRY
 
 
