@@ -1,9 +1,7 @@
 
 ## IMPLEMENTATION OF COMPUTER PHYSICIAN ORDER ENTRY IN THE EMERGENCY DEPARTMENT 
 
-###
-by
-Frederick D. Watters
+### by Frederick D. Watters
 B.A. University of Colorado
 B.S.N. University of Pennsylvania
 
@@ -14,8 +12,7 @@ Requirements for the Degree of
 Master of Science in Nursing 
 (Family Nurse Practitioner)
 ```
-####
-University of Maine
+#### University of Maine
 Orono, Maine
 December 2012
 
