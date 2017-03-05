@@ -1,4 +1,4 @@
-IMPLEMENTATION OF COMPUTER PHYSICIAN ORDER ENTRY IN THE EMERGENCY DEPARTMENT 
+## IMPLEMENTATION OF COMPUTER PHYSICIAN ORDER ENTRY IN THE EMERGENCY DEPARTMENT 
 
 by
 Frederick D. Watters
@@ -36,3 +36,5 @@ All rights reserved
 
 
 An analysis of the research literature on computer physician order entry (CPOE) produced over the past decade is useful in order to prepare for the launch of a fully integrated electronic medical record (EMR) in an Emergency Department. This review of the literature guides those making these institutional decisions about health information technology (HIT).  Studies on rates of use, qualitative and quantitative effects, errors and safety concerns, and policy implications are used to address patient engagement, staff workflow, communication, and implications for future practice and research.
+
+[Download Full Text] (https://github.com/nursethestrings/CPOE/CPOE.Draft.with.formatting.1.docx) 
